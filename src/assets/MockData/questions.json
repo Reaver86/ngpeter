@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Vorname",
+    "text": "Da ich mich schon vorgestellt habe, könntest du mir deinen Vornamen nennen?"
+  },
+  {
+    "id": 2,
+    "title": "Lieblingsfarbe",
+    "text": "Verrate mir bitte noch deine Lieblingsfarbe!"
+  }
+]

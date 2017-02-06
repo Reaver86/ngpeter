@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --fun-font: 'Ovo', serif;
+  --wedding-font: 'Tangerine', cursive;
+}
+
+body {
+  font-size: calc(1em + 1vw);
+  font-family: var(--fun-font);
+  line-height: 1.5;
+  background-color: #dbb0ff;
+  margin: 0;
+}
